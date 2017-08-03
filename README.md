@@ -36,5 +36,5 @@ be set to do otherwise.
 
 
 Contact:
-Papers and related material available at https://scottcoull.com
+Papers and related material available at https://www.scottcoull.com
 ***************************************
